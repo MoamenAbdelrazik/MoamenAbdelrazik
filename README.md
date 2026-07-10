@@ -120,7 +120,7 @@ I am a Software Engineer and Generative AI Developer with a passion for bridging
 
 ### 🤖 [CodeJudge](https://github.com/MoamenAbdelrazik/CodeJudge) — Sovereign Code Evaluation LLM
 * **Overview:** A locally hosted code grading and semantic assessment engine designed to replace commercial LLM API costs.
-* **AI Training:** Fine-tuned **Llama 3.1 8B Instruct** using **QLoRA** (Unsloth) on a 2,700-sample custom dataset covering 150 LeetCode problems, 6 variation archetypes, and 3 languages (Python, Java, C++).
+* **AI Training:** Fine-tuned **Llama 3.1 8B Instruct** using **QLoRA** (Unsloth) on a 3,000-sample custom dataset covering 150 LeetCode problems, 6 variation archetypes, and 3 languages (Python, Java, C++).
 * **Results:** Achieved **0.90 Cosine Similarity** and **0.89 BERTScore** against expert human evaluations. Runs fully quantized (4-bit NF4) on a single consumer GPU (8 GB VRAM) inside a private subnet.
 
 ---
